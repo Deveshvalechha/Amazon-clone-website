@@ -1,0 +1,303 @@
+*{
+    margin:0px;
+    font-family:arial;
+    border:border-box;
+    
+}
+
+.nav{
+  height:50px;
+  width:100%;
+  background-color:BLACK;
+  color:white;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  
+  
+}
+.nav-logo{
+    height:47px;
+    width:96px;
+}
+.logo{
+    background-image:url(download.png) ;
+    background-size: cover;
+    height:47px;
+
+}
+    .border{
+        border:2px solid transparent;
+    }
+
+    .border:hover{
+        border:2px solid green;
+    }
+    .nav-3{
+        display:flex;
+    
+        width:800px;
+        height:35px;
+        margin-left:30px;
+        margin-top:7px;
+        border-radius:3px;
+        }
+        .select{
+            width:40px;
+            border-radius:3px;
+
+        }
+        .text{
+            width:720px;
+            text-align: center;
+
+        }
+        .mag{
+            width:40px;
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            background-color:goldenrod;
+            font-size: medium;
+
+        }
+       
+        .nav-4{
+height:35px;
+width:120px;
+margin-top: 10PX ;
+margin-left: 10PX ;
+margin-bottom: 10PX ;
+
+
+        
+}
+.nav-a{
+    font-size:13px;
+    text-align: center;
+}
+.s-box{
+    background-color: black;
+color:aliceblue;
+border: 2px solid black;
+}
+        .nav-b{
+            font-size:15px;
+            text-align: center;
+
+        }
+          
+        .nav-5{
+            height:35px;
+            width:80px;
+        
+                    
+            }
+            .nav-6 i{
+        
+            font-size: 30px;
+
+            }
+            .nav-6{
+                font-size: small;
+        }
+            .below-nav{
+                height:30;
+                background-color:rgb(25, 25, 36);
+                color:white;
+                display: flex;
+                align-items:center;
+            
+                
+            }
+            .b-n-1{
+                height: 30;
+                margin-left: 20px;
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+                
+            .all{
+                margin-left: 4px;
+            }
+            .b-n-2{
+                height: 30;
+                margin-left: 20px;
+
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-3{
+                margin-left: 20px;
+
+                height: 30;
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-4{
+                margin-left: 20px;
+
+                height: 30;
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-5{
+                margin-left: 20px;
+
+                height: 30;
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-6{
+                margin-left: 20px;
+
+                height: 30;
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-7{
+                margin-left: 20px;
+
+                height: 30;
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-8{
+                margin-left: 20px;
+
+                height: 30;
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-9{
+                height: 30;
+                margin-left: 20px;
+
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+            .b-n-10{
+                height: 30;
+                margin-left: 20px;
+
+                display:flex;
+                align-items: center;
+                flex-flow:column;
+                flex-flow: row;
+            }
+           .center{
+            height:40%;
+            width:100%;
+            background-image:url(hero.jpg);
+            background-size:cover;
+            position: relative;
+            Display: flex;
+            
+        
+           }
+           .on-center-1{
+            display:flex;
+            justify-content: space-evenly;
+            background-color:lightyellow;
+            
+           }
+           .box{
+            height:300px;
+            width:20%;
+            border:2px solid black;
+            background-color:white;
+            padding: 20px 10px 15px 10px;
+
+            
+
+           }
+
+           .box-img1{
+            margin-top: 5px;
+            margin-bottom: 5px;
+            border:2px solid blue;
+            background-size:300px 300px;
+            height:250px;
+           }
+
+           .on-center-2{
+            display:flex;
+            justify-content: space-evenly;
+            background-color:lightyellow;
+            padding-top: 50px;
+            padding-bottom: 20px;
+
+           }
+           /**footer**/
+
+           .foot-pannel1{
+            background-color:#37475a;
+            color:white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height:50px;
+           }
+
+           .foot-pannel2{
+            background-color:#222f3d;
+            color:white;
+            display: flex;
+            justify-content:space-evenly;
+            height:300px;
+           }
+           ul a{
+            display:block;
+           }
+           ul{
+            margin-top: 20px;
+           }
+           .foot-pannel3{
+            background-color:black;
+            color: white;
+            height: 70px;
+            border: 0.5px solid white;
+            display: flex;
+            justify-content: center;
+
+           }
+
+           .logo1{
+            background-image:url(download.png) ;
+            background-size: cover;
+            height:47px;
+            width:100px;
+            
+        }
+        .foot-pannel4{
+            background-color: black;
+            color:white;
+            display: flex;
+            height:30px;
+    justify-content: center;
+    
+    
+        }
+        .pages{
+            
+            padding-top: 5px;
+        }
+       
